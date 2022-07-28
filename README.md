@@ -1,2 +1,2 @@
 # Midterm
-midterm of aml2022
+midterm of my univ
